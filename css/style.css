@@ -1,0 +1,23 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #ffe6e6;
+}
+
+.recipe-card {
+    width: 600px;
+    border: 2px solid brown;
+    padding: 10px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.init-list {
+    list-style: none;
+}
